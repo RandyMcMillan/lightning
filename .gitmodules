@@ -10,6 +10,7 @@
 [submodule "external/libwally-core"]
 	path = external/libwally-core
 	url = https://github.com/ElementsProject/libwally-core.git
+	branch = 84e112f5abdf7e575daa28fa9f50d7a6333f88e6
 	ignore = dirty
 [submodule "external/gheap"]
 	path = external/gheap
